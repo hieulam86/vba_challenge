@@ -1,5 +1,5 @@
 Attribute VB_Name = "Module1"
-ub stock_data():
+Sub stock_data():
     'Create Variables
     Dim WorksheetName As String
     Dim year_change As Double
